@@ -1,0 +1,10 @@
+C:\Users\李若宁\source\repos\stuMange\stuMange\bin\Debug\stuMange.exe.config
+C:\Users\李若宁\source\repos\stuMange\stuMange\bin\Debug\stuMange.exe
+C:\Users\李若宁\source\repos\stuMange\stuMange\bin\Debug\stuMange.pdb
+C:\Users\李若宁\source\repos\stuMange\stuMange\obj\Debug\stuMange.csprojAssemblyReference.cache
+C:\Users\李若宁\source\repos\stuMange\stuMange\obj\Debug\stuMange.mainForm.resources
+C:\Users\李若宁\source\repos\stuMange\stuMange\obj\Debug\stuMange.Properties.Resources.resources
+C:\Users\李若宁\source\repos\stuMange\stuMange\obj\Debug\stuMange.csproj.GenerateResource.cache
+C:\Users\李若宁\source\repos\stuMange\stuMange\obj\Debug\stuMange.csproj.CoreCompileInputs.cache
+C:\Users\李若宁\source\repos\stuMange\stuMange\obj\Debug\stuMange.exe
+C:\Users\李若宁\source\repos\stuMange\stuMange\obj\Debug\stuMange.pdb
